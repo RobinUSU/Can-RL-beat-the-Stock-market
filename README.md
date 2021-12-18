@@ -22,5 +22,11 @@ Training is done in 63, 1 week long epochs where the program is allowed to buy a
 Verification is then done in another set of 63 weekly epochs to evaluate data.
 The final Verification process then evaluates the stocks over 4 years to verify itself.
 
+<img src=Graphs/Method[2]-Analysis.JPG width="500">
+<img src=Graphs/Method[2]-BacktestingVsBaseline.JPG width="500">
+<img src=Graphs/Method[2]-Info.JPG width="500">
+<img src=Graphs/Method[2]-Results &Gains.JPG width="500">
+<img src=Graphs/Method[2]-Sharpe-Ratio.JPG width="500">
+
 (Baseline Source: https://github.com/AI4Finance-Foundation/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020 ) 
 
