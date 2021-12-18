@@ -17,16 +17,18 @@ The following on the left was the first baseline Implementation implemented, A D
 
 # Second Baseline Implementation
 
-Supported Algorithms: PPO, Ensemble, A2C, DIJA methods 
+Supported Algorithms: PPO, Ensemble, A2C, DIJA methods
+<img src=Graphs/Method[2]-Results&Gains.JPG width="700"> 
+<img src=Graphs/Method[2]-BacktestingVsBaseline.JPG width="700">
+<img src=Graphs/Method[2]-Analysis.JPG width="500">
+
 Training is done in 63, 1 week long epochs where the program is allowed to buy and sell.
 Verification is then done in another set of 63 weekly epochs to evaluate data.
 The final Verification process then evaluates the stocks over 4 years to verify itself.
 
-<img src=Graphs/Method[2]-Analysis.JPG width="500">
-<img src=Graphs/Method[2]-BacktestingVsBaseline.JPG width="500">
-<img src=Graphs/Method[2]-Info.JPG width="500">
-<img src=Graphs/Method[2]-Results &Gains.JPG width="500">
-<img src=Graphs/Method[2]-Sharpe-Ratio.JPG width="500">
+
+<img src=Graphs/Method[2]-Info.JPG width="800">
+<img src=Graphs/Method[2]-Sharpe-Ratio.JPG width="700">
 
 (Baseline Source: https://github.com/AI4Finance-Foundation/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020 ) 
 
