@@ -1,4 +1,5 @@
 # Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy
+
 This repository provides codes for [ICAIF 2020 paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996)
 
 This ensemble strategy is reimplemented in a Jupiter Notebook at [FinRL](https://github.com/AI4Finance-LLC/FinRL-Library).
@@ -126,3 +127,5 @@ Our purpose is to create a highly robust trading strategy. So we use an ensemble
 
 ## Performance
 <img src=figs/performance.png>
+
+(Baseline Source: https://github.com/AI4Finance-Foundation/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020 ) 
