@@ -11,7 +11,7 @@ I  wanted to compare a variety of approaches between algorithms to measure the d
 The first model trained during a year when stock dropped in value, simply learned how to avoid losing value instead of gaining it. 
 The following on the left was the first baseline Implementation implemented, A DQN (Deep Q Network) agent.
 
-<img src=graphs/Method[1]-Results width="500">
+<img src=graphs/Method[1]-Results.JPG width="500">
 
 (Baseline Source: https://github.com/Albert-Z-Guo/Deep-Reinforcement-Stock-Trading ) 
 
